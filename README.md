@@ -2,6 +2,14 @@
 
 **Kaggle**及更多AI分享，欢迎关注我的[知乎帐号](https://www.zhihu.com/people/zhouzhirui)
 
+作者：爱睡觉的KKY
+
+
+
+## UPDATE
+
+2022.7  视觉Attention
+
 
 
 “注意力”在平时的生活中相信大家都深有体会，当你认真读某本书的时候，会感觉眼睛中只有书中正在读的文字，竖起耳朵去听一个很微弱的声音的时候，这个声音也仿佛放大了，能听的更清楚。深度学习中Attention机制非常类似生物的注意力。人们视觉在感知东西的时候一般不会是一个场景从到头看到尾每次全部都看，而往往是根据需求观察注意特定的一部分。而且当人们发现一个场景经常在某部分出现自己想观察的东西时，人们会进行学习在将来再出现类似场景时把注意力放到该部分上。
@@ -252,4 +260,5 @@ class cbam(nn.Module):
 3. [【计算机视觉】深入理解Attention机制](https://blog.csdn.net/yideqianfenzhiyi/article/details/79422857)
 4. [自然语言处理中的自注意力机制](https://www.cnblogs.com/robert-dlut/p/8638283.html])
 5. [Encoder-Decoder模型和Attention模型](https://blog.csdn.net/u014595019/article/details/52826423)
+5. [CBAM](https://zhuanlan.zhihu.com/p/102035273)
 
